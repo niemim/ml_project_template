@@ -9,7 +9,7 @@ After you have carried out a test, add PASS / FAIL + YOUR NAME + DATE after the 
 
 1.1. Read through README.md. Check for broken formatting, typos and mark down if there are any parts you don't understand. Check that all links in README work, i.e. lead to a sensible page or hyperlink to some part of the template. Acceptance criteria: nothing to fix (format breakdowns may have to be accepted because README / html conversions).
 
-  Result:
+  Result: FAIL MN 1.2.22 issue 1
 
 1.2. Check out the notebooks (in GitHub) (index, 00_data, 01_model, 02_loss, 03_workflow, 04_api). Read through the notebooks and again look out for broken formatting, typos, and mark down parts that you don't understand. Check that all links work, i.e. lead to sensible page or hyperref to some part of the template. Acceptance criteria: nothing to fix (format breakdowns may have to be accepted because README / html conversions).
 
