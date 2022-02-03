@@ -13,7 +13,7 @@ After you have carried out a test, add PASS / FAIL + YOUR NAME + DATE after the 
 
 1.2. Check out the notebooks (in GitHub) (index, 00_data, 01_model, 02_loss, 03_workflow, 04_api). Read through the notebooks and again look out for broken formatting, typos, and mark down parts that you don't understand. Check that all links work, i.e. lead to sensible page or hyperref to some part of the template. Acceptance criteria: nothing to fix (format breakdowns may have to be accepted because README / html conversions).
 
-  Result:
+  Result: FAIL MN 3.2.22 Issue 2
 
 ## 2. Revew documentation on GitHub pages: https://city-of-helsinki.github.io/ml_project_template/
 
